@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T18:54:23.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Ydy4_TQ3JCg94A5NUkT6" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T18:56:53.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="MyirXX0ZOLR_PubsKYvG" version="13.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,23 +136,17 @@
         <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-30" value="All Common Configurations such as kafka, redis, etc CMs and secrets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-245" y="460" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-31" value="" style="endArrow=classic;html=1;exitX=0.474;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-31" value="" style="endArrow=classic;html=1;exitX=0.474;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="0-Yrpr5TJiJ0qa2s8P8Z-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="139.99999999999997" as="sourcePoint" />
             <mxPoint x="640" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-33" value=".gitlab-ci.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="230" width="150" height="20" as="geometry" />
+          <mxGeometry x="620" y="230" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="0-Yrpr5TJiJ0qa2s8P8Z-33">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="450.71000000000004" as="sourcePoint" />
-            <mxPoint x="810" y="50.71000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-36" value="this pipeline can be triggered to create all resources defiened" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="443.51" y="424.55" width="206.26" height="46.57" as="geometry" />
+        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-36" value="Pipeline will be triggered and changes will be reflected in to Oopenshift Env" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="443.51" y="344.55" width="206.26" height="46.57" as="geometry" />
         </mxCell>
         <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-39" value="All Common Configurations such as kafka, redis, etc CMs and secrets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-105" y="460" width="125" height="80" as="geometry" />
@@ -168,6 +162,21 @@
         </mxCell>
         <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-43" value="All Common Configurations such as kafka, redis, etc CMs and secrets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="440" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-44" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-305" y="100" as="sourcePoint" />
+            <mxPoint x="-300" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-45" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="0-Yrpr5TJiJ0qa2s8P8Z-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="450" as="sourcePoint" />
+            <mxPoint x="571.64" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-46" value="Any changes to the values in these files" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-440" y="297.98" width="206.26" height="46.57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
