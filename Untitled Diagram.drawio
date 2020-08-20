@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T17:47:20.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="du5m08Ipusi7MIZ2o8Ni" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T17:48:56.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="cRg0pu01rw_L1YLdsVje" version="13.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,13 +149,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="630" as="sourcePoint" />
             <mxPoint x="540" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="390" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-36" value="this pipeline can be triggered to create all resources defiened" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-34;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="344.36" y="498.85" width="120" height="50" as="geometry" />
+        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-36" value="this pipeline can be triggered to create all resources defiened" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="223.74" y="400.71" width="372.93" height="46.57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
