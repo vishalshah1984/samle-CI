@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T14:24:08.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="hDAUCaO5K8JV41M0IjEq" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T14:28:00.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Hfd5KFszx2Esp_zXbDWV" version="13.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
         <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-33" value=".gitlab-ci.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="220" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-36" value="Pipeline will be triggered and changes will be reflected in to Oopenshift Env" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;fontStyle=1;strokeWidth=2;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-36" value="Pipeline will be triggered and changes will be reflected in to Oopenshift Env" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-65;fontStyle=1;strokeWidth=2;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="398.39" y="330.18" width="227.77" height="95.45" as="geometry" />
         </mxCell>
         <mxCell id="0-Yrpr5TJiJ0qa2s8P8Z-39" value="All Common Configurations such as kafka, redis, etc CMs and secrets" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
